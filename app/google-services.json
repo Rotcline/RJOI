@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "280121398379",
+    "project_id": "rjoi-efedd",
+    "storage_bucket": "rjoi-efedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280121398379:android:7f1cca594b296363250d2e",
+        "android_client_info": {
+          "package_name": "com.rotcline.rjoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280121398379-85f34kr9j0jsgrr96k323b1ai4si8fcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rotcline.rjoi",
+            "certificate_hash": "bbd0290eb957f181133dbb510997e4660fc8ea9b"
+          }
+        },
+        {
+          "client_id": "280121398379-dlg64f2toojfp3phibegc9gvbj498e73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaNkKNQpWX4-edyHaKuphJPmanqV64JcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280121398379-dlg64f2toojfp3phibegc9gvbj498e73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
